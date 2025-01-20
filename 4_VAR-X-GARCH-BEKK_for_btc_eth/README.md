@@ -12,7 +12,9 @@ This section implements a sophisticated financial econometric analysis using R, 
 
 ## 🏗️ Model Structure
 
-### 1. Data Preparation
+### __1. 📝 Data Preparation and Processing__
+_Initial foundation for our analysis_
+
 #### Initial Setup
 ```R
 # Required packages
@@ -38,7 +40,8 @@ set.seed(123)
    - NA value handling
    - Time series synchronization
 
-### 2. VAR-X Model Implementation
+### __2. 📊 VAR-X Model Implementation__
+_First stage of our two-step modeling approach_
 
 #### Exogenous Variables Selection
 We incorporate two critical exogenous variables to enhance our model's ability to capture market dynamics:
@@ -98,7 +101,8 @@ p_value = 2*(1-Φ(|t_stat|))
 - Robust to outliers and extreme events
 - Accounts for market microstructure effects
 
-### 3. BEKK-GARCH Model
+### __3. 📈 BEKK-GARCH Model__
+_Core volatility and spillover analysis component_
 
 #### Model Selection Rationale
 We chose the BEKK (Baba, Engle, Kraft and Kroner) model over DCC (Dynamic Conditional Correlation) for several crucial reasons:
