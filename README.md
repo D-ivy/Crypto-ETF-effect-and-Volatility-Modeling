@@ -15,8 +15,7 @@ The approval of Bitcoin ETFs marks a watershed moment in cryptocurrency history,
 📁 4_VAR-X-GARCH-BEKK_for_btc_eth
 ```
 [Structural Break Analysis](2_structural_break_analysis/README.md)
-
-[High Frequency Analysis](3_high_frequency_data_analysis/README.md)
+, [High Frequency Analysis](3_high_frequency_data_analysis/README.md)
 
 
 ## 📚 Methodology
