@@ -61,6 +61,7 @@ result = algo.predict(n_bkps=1)
 - Returns temporal index of break
 
 ## 📊 Results and Discussion
+![image](https://github.com/user-attachments/assets/e65547fa-6ba0-4d0c-be89-fc7e068c02da)
 The analysis identified **October 23, 2023** as the potential breakpoint in Bitcoin's price behavior.
 
 ### Methodology Advantages
