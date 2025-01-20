@@ -1,4 +1,4 @@
-# 📊 R-Based BEKK-GARCH Model Analysis
+# 📊 R-Based BEKK-GARCH Model Analysis with Structural break
 
 ## 🔍 Overview
 This section implements a sophisticated financial econometric analysis using R, chosen for its superior capabilities in statistical computing and financial time series analysis. The implementation uses specialized packages like 'vars' and 'quantmod' for precise mathematical computations.
