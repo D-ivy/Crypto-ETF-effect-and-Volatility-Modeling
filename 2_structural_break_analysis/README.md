@@ -1,7 +1,7 @@
 # 📊 Structural Break Analysis
 
 ## 📅 Time Period and Data
-- **Analysis Period**: June 1, 2022 to January 1, 2025
+- **Analysis Period**: June 1, 2022 to December 31, 2024
 - **Data Source**: yfinance (Yahoo Finance API)
 - **Asset**: Bitcoin (BTC-USD)
 - **Primary Data**: Daily closing prices
