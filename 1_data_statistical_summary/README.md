@@ -62,6 +62,9 @@ ks_stat, ks_pvalue = stats.ks_2samp(before_returns, after_returns)
 | Kurtosis          | 6.276             | 2.118            | 5.07              | 4.158            | 5.925             | 4.739            |
 | Q1 (%)            | -1.02%            | -1.12%           | -1.44%            | -1.44%           | -1.88%            | -1.60%           |
 | Q3 (%)            | 1.11%             | 1.56%            | 1.37%             | 1.78%            | 1.86%             | 1.84%            |
+| IQR (%)           | 2.13%             | 2.67%            | 2.81%             | 3.21%            | 3.74%             | 3.43%            |
+| KS-test Statistic |        0.101      |                  |        0.070      |                  |        0.064      |                  |
+| KS-test p-value   |      **0.015**    |                  |        0.173      |                  |        0.257      |                  |
 
 ## 🔬 Key Findings
 The Kolmogorov-Smirnov test indicates a significant distributional change for Bitcoin (BTC) in the post-break period, aligning with the structural break analysis from section 2 of the project. This suggests a fundamental shift in BTC's return patterns after October 23, 2023.
