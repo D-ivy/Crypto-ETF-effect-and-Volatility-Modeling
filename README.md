@@ -12,6 +12,7 @@ The approval of Bitcoin ETFs marks a watershed moment in cryptocurrency history,
 📁 1_data_statistical_summary
 📁 2_structural_break_analysis
 📁 3_high_frequency_data_analysis
+[High Frequency Analysis](3_high_frequency_data_analysis/README.md)
 📁 4_VAR-X-GARCH-BEKK_for_btc_eth
 ```
 
